@@ -1,0 +1,162 @@
+
+.banner{
+    background: url(3235319.jpg);
+    background-position: center;
+    background-repeat:  no-repeat;
+    background-size: cover;
+    padding: 200px 0;
+    margin: 20px;
+    font-family: "Poppins", sans-serif;
+    position: relative;
+
+}
+.navbar {
+   border: 1px black solid;
+   background-color: black;   
+   border-radius:  50px 50px;
+   font-family: "Poppins", sans-serif;
+   color: white;
+   
+   
+}
+
+.navbar button{
+  background-color: yellow;
+
+
+
+outline: none;
+border-radius: 50px;
+color: black;
+
+font-weight: bold;
+}
+
+
+
+.about button:hover{
+    background-color: white;
+}.banner button:hover{
+    background-color: white;
+}
+
+
+.banner button{
+    margin-top: 20px;
+
+padding: 7px;
+width: 190px;
+outline: none;
+border-radius: 50px;
+color: black;
+background-color: yellow;
+font-weight: bold;
+
+}
+
+
+.banner .dev h1{
+    font-size: 60px;
+}
+.about{
+   margin-top: 0px;
+   padding: 80px 0;
+    background-image: url(3237140.jpg);
+    color: white;
+    
+}
+.about .img-faul{
+    margin-left: 60px;
+    border: black 3px solid;
+    border-radius: 70px 20px;
+}
+
+
+.about h1{
+    font-size: 80px;
+    color: black;
+    font-weight: lighter;
+}
+.about button{
+    padding: 7px;
+width: 190px;
+outline: none;
+border-radius: 50px;
+color: black;
+background-color: yellow;
+font-weight: bold;
+margin-left: 150px;
+}
+.skill-padding{
+   padding: 50px 0;
+}
+.about span{
+    color: red;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+
+.footer{
+    background-color:rgb(41, 41, 122);
+    color: white;
+    padding: 30px 0;
+    
+}
+.footer h1{
+    font-size: 20px;
+    margin-left: 60px;
+}
+
+.footer .bi{
+    padding-left: 60px;
+    
+}
+
+
+
+
+.footer-2{
+    background-color: black;
+    color: white;
+   
+}
+.footer-2 h1{
+    padding: 80px 0;
+    margin-left: 20px;
+    color:  rgb(41, 41, 122);;
+    margin-top: 70px;
+    font-size: 60px;
+   
+   
+}
+
+.footer-2 h2{
+   margin-top: 60px;
+    margin-left: 60px;
+    color: white;
+    padding: 20px 0;
+    
+   
+}
+.footer-2 h3{
+    margin-left: 60px;
+    color: white;
+    padding: 10px 0;
+    font-size: 20px;
+   
+}
+
+.footer-3{
+   background-color:gray;
+   color: black;
+  
+  
+   
+
+}
+
+.footer-3 h1{
+    
+   font-size: 20px;
+}
